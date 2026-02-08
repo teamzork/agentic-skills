@@ -18,22 +18,24 @@ Core philosophy — always emphasize this in advice:
 
 When the user asks for Reddit growth research, subreddit analysis, message drafting, or action plans, activate this skill and follow the phases below. Tailor outputs to the user's provided product description, URL, or problem space.
 
-## Phase 1: Research & Preparation (User Actions: Days 1–14)
+## Phase 1: Reconnaissance & Setup (User Actions: Days 1–14)
 
 Provide research tools and steps for the user to execute:
 
-1. Account research
-   - Advise: Research best practices for fresh Reddit accounts (e.g., one per product angle, different browsers to avoid fingerprinting).
+1. Account Research & Technical Safety
+   - Browser Isolation: Advise user to assign one Reddit account per browser (e.g., Chrome, Firefox, Safari) to prevent account linking/banning.
+     - For additional security, try using VPNs with different IP addresses when creating new accounts.
+   - Profile Hygiene: Instruct user to enable "Hide Post History" in Reddit settings so value-posts don't look like a marketing campaign.
    - Warm-up guidance: Suggest 7–14 days of observing/upvoting/commenting in relevant threads to build karma—no product mentions.
-   - Profile tips: Recommend using a real human photo, adding a subtle product link in bio, and enabling "Hide Post History".
+   - Profile tips: Recommend using a real human photo and adding a subtle product link in bio.
 
-2. Community research
-   - Steps for user: Use Map of Reddit to visualize connected subreddits; create dummy Reddit Ads campaigns (no payment) for keyword/audience insights.
+2. Community Research & Tooling
+   - Map of Reddit: Use visually to traverse related communities.
    - Criteria: Identify 15+ subreddits with 5,000+ members, focusing on user communities (e.g., r/CreditCards) over builder ones (unless dev-focused).
    - Output: Compile a list of recommended subreddits with reasoning (size, relevance, activity), rules/moderation notes from subreddit sidebars.
 
-3. Keyword & listening research
-   - Advise setup: Recommend tools like F5bot for keyword alerts on product/problem terms.
+3. Keyword & Listening Research
+   - Keyword Alerts: Setup F5bot for real-time mentions of problem keywords.
    - Best practice: Research high-engagement threads—analyze top posts/comments for tones, formats that resonate.
 
 ## Phase 2: Engagement Research – Trojan Horse Best Practices
@@ -51,20 +53,22 @@ Research proven formats from Reddit data/sources, then compile tailored drafts:
 A. Problem-Solution Video
    - Research: Analyze high-engagement video posts in similar subs.
    - Draft structure: Problem-focused headline (no product name); body with story + demo description; feedback CTA; link placement at end with UTM.
+   - Formatting Tactic: Do not paste raw URLs. Embed the link naturally within the text body (hyperlink specific keywords) or "block" it in the middle of the narrative to increase traffic.
    - Provide: Sample script/draft for user to adapt and post.
 
 B. Value-First Case Study
    - Research: Pull examples of educational posts that converted well.
-   - Draft: High-value headline; 80% standalone education; subtle product plug.
-   - Best practice: Ensure message stands alone without link.
+   - Draft: High-value headline; 80% standalone education.
+   - Safety Hack (The "Complimentary Tool"): If the subreddit is strict, draft the message to include a link to a popular, non-competing tool (e.g., "I used [Product] and [Popular Tool] to do this") alongside the user's link. This frames it as a resource list, reducing ban risk.
 
 C. Vulnerability/Story
    - Research: Find empathy-driven narratives (e.g., failure stories) with high comments.
    - Draft: Personal rejection/failure tale leading to product build.
+   - Alternative Strategy (Curiosity Trigger): Draft a version that contains NO link in the body. rely on the user's profile bio link or users asking "what tool is this?" in comments.
 
-D. Free Resource
-   - Research: Identify shareable resources like sheets/databases in subs.
-   - Draft: Offer compilation (e.g., Google Sheet) with subtle product link inside.
+D. Free Resource (The "Trojan Horse")
+   - Research: Identify data sets or lists valuable to the niche.
+   - Draft: Create a "Trojan Horse" asset (e.g., a read-only spreadsheet or SQL query result) where the data helps the user, but the "Source" or "Full Data" link points to the user's product.
 
 For each draft, include:
 - Researched best practices (e.g., tone, length, timing).
