@@ -1,7 +1,7 @@
 ---
 name: reddit-growth-research-zero-to-100
 description: Research Reddit communities, compile compelling organic growth messages using best practices, and provide step-by-step actions for user acquisition (first 100 users) without executing any posts or interactions.
-homepage: 
+homepage: https://github.com/teamzork/agentic-skills/tree/main/reddit-growth-research-zero-to-100
 user-invocable: true
 metadata: {"author": "Simon M.", "version": "1.1", "category": "growth-research"}
 ---
