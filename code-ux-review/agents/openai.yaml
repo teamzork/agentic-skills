@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code + UX Review"
+  short_description: "Review code and UI/UX for quality and clarity"
+  default_prompt: "Use $code-ux-review to review this change for code quality and UX consistency."

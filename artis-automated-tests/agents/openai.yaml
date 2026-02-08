@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artis Automated Tests"
+  short_description: "Test authoring guide for Artis web apps"
+  default_prompt: "Use $artis-automated-tests to draft integration tests for a new API route."

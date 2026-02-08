@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artis UI Review"
+  short_description: "Review Artis UI for style & a11y"
+  default_prompt: "Use $artis-ui-review to review UI files for Artis guideline compliance."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artis Search Commands"
+  short_description: "Fast rg/fd search patterns for Artis repo"
+  default_prompt: "Use $artis-search-commands to pick the fastest search command for this repo."

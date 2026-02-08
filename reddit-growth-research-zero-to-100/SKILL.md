@@ -29,8 +29,8 @@ Provide research tools and steps for the user to execute:
    - Warm-up guidance: Suggest 7–14 days of observing/upvoting/commenting in relevant threads to build karma—no product mentions.
    - Profile tips: Recommend using a real human photo and adding a subtle product link in bio.
 
-2. Community Research & Tooling
-   - Map of Reddit: Use visually to traverse related communities.
+2. Community research
+   - Steps for user: Use Map of Reddit to visualize connected subreddits; create dummy Reddit Ads campaigns (no payment) for keyword/audience insights.
    - Criteria: Identify 15+ subreddits with 5,000+ members, focusing on user communities (e.g., r/CreditCards) over builder ones (unless dev-focused).
    - Output: Compile a list of recommended subreddits with reasoning (size, relevance, activity), rules/moderation notes from subreddit sidebars.
 

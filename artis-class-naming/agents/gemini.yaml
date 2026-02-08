@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artis Class Naming"
+  short_description: "Apply Artis HTML class naming rules"
+  default_prompt: "Use $artis-class-naming to apply the Artis class naming conventions to new markup."
