@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS Launch Architect"
+  short_description: "Multi-threaded SaaS launch playbook"
+  default_prompt: "Use $saas-launch-architect to audit a SaaS codebase and produce a multi-threaded launch plan."
