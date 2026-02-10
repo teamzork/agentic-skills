@@ -1,0 +1,20 @@
+# Paths are relative to repo root. Rsync patterns are supported.
+# Keep this strict; anything not listed will be excluded from public export.
+
+/README.md
+/.gitignore
+
+# Add your runtime/install files
+# /requirements.txt
+# /package.json
+# /package-lock.json
+# /pnpm-lock.yaml
+# /yarn.lock
+
+# Add your source and tests
+# /src/**
+# /tests/**
+
+# Add template configs only (never real secrets)
+# /config/*.example
+# /config/*_template.json

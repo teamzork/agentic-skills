@@ -1,0 +1,4 @@
+interface:
+  display_name: "Private Public Export"
+  short_description: "Sync a clean public repo via allowlist releases"
+  default_prompt: "Use $private-public-export to set up a private-to-public release export workflow."
