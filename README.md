@@ -10,6 +10,7 @@ A collection of Codex skills used by Team Zork agents. Each skill lives in its o
 | artis-class-naming | Artis HTML class naming conventions and semantic markup rules. | `artis-class-naming/` |
 | artis-search-commands | Fast search and file-finding patterns for the Artis repo. | `artis-search-commands/` |
 | artis-ui-review | UI review checklist for Artis (Astro/Tailwind). | `artis-ui-review/` |
+| backstory-maker | StoryBrand 8-beat framework for founder/company backstories. | `backstory-maker/` |
 | code-ux-review | Combined engineering and UX review checklist and output format. | `code-ux-review/` |
 | reddit-growth-research-zero-to-100 | Research-driven Reddit growth guidance for first 100 users. | `reddit-growth-research-zero-to-100/` |
 
