@@ -6,6 +6,7 @@ A collection of Codex skills used by Team Zork agents. Each skill lives in its o
 
 | Skill | Summary | Path |
 | --- | --- | --- |
+| app-design-audit | UI/UX audit against visual design principles, accessibility (WCAG), and consistency. | `app-design-audit/` |
 | artis-automated-tests | Guidance for writing and validating automated tests in the Artis web app. | `artis-automated-tests/` |
 | artis-class-naming | Artis HTML class naming conventions and semantic markup rules. | `artis-class-naming/` |
 | artis-search-commands | Fast search and file-finding patterns for the Artis repo. | `artis-search-commands/` |
@@ -62,6 +63,8 @@ What the skill does and why it exists.
 ```
 agentic-skills/
   README.md
+  app-design-audit/
+    SKILL.md
   artis-automated-tests/
     SKILL.md
   artis-class-naming/
@@ -69,6 +72,8 @@ agentic-skills/
   artis-search-commands/
     SKILL.md
   artis-ui-review/
+    SKILL.md
+  backstory-maker/
     SKILL.md
   code-ux-review/
     SKILL.md
