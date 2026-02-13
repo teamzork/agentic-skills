@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Design Audit"
+  short_description: "Audit UI execution for design quality and fixes"
+  default_prompt: "Review this app's UI and UX execution, check against core design principles, and identify improvement opportunities with actionable fixes."
