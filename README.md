@@ -6,6 +6,7 @@ A collection of Codex skills used by Team Zork agents. Each skill lives in its o
 
 | Skill | Summary | Path |
 | --- | --- | --- |
+| ai-press-release-placement | Press release strategy for boosting AI/LLM visibility of digital products. | `ai-press-release-placement/` |
 | app-design-audit | UI/UX audit against visual design principles, accessibility (WCAG), and consistency. | `app-design-audit/` |
 | artis-automated-tests | Guidance for writing and validating automated tests in the Artis web app. | `artis-automated-tests/` |
 | artis-class-naming | Artis HTML class naming conventions and semantic markup rules. | `artis-class-naming/` |
@@ -63,6 +64,8 @@ What the skill does and why it exists.
 ```
 agentic-skills/
   README.md
+  ai-press-release-placement/
+    SKILL.md
   app-design-audit/
     SKILL.md
   artis-automated-tests/

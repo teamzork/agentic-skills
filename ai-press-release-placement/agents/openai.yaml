@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Press Release Placement"
+  short_description: "Low-cost press release playbook for LLM visibility."
+  default_prompt: "Plan and draft an AI-optimized press release for a digital product to increase recommendation visibility in LLM and AI search results."
