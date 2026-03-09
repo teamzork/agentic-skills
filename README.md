@@ -9,12 +9,13 @@ A collection of Codex skills used by Team Zork agents. Each skill lives in its o
 | ai-press-release-placement | Press release strategy for boosting AI/LLM visibility of digital products. | `ai-press-release-placement/` |
 | app-design-audit | UI/UX audit against visual design principles, accessibility (WCAG), and consistency. | `app-design-audit/` |
 | artis-automated-tests | Guidance for writing and validating automated tests in the Artis web app. | `artis-automated-tests/` |
-| artis-class-naming | Artis HTML class naming conventions and semantic markup rules. | `artis-class-naming/` |
-| artis-search-commands | Fast search and file-finding patterns for the Artis repo. | `artis-search-commands/` |
-| artis-ui-review | UI review checklist for Artis (Astro/Tailwind). | `artis-ui-review/` |
 | backstory-maker | StoryBrand 8-beat framework for founder/company backstories. | `backstory-maker/` |
 | code-ux-review | Combined engineering and UX review checklist and output format. | `code-ux-review/` |
 | reddit-growth-research-zero-to-100 | Research-driven Reddit growth guidance for first 100 users. | `reddit-growth-research-zero-to-100/` |
+| zork-class-naming | Artis HTML class naming conventions and semantic markup rules. | `zork-class-naming/` |
+| zork-mobile-responsiveness | Build responsive, mobile-first web applications. | `zork-mobile-responsiveness/` |
+| zork-search-commands | Fast search and file-finding patterns for the Artis repo. | `zork-search-commands/` |
+| zork-ui-review | UI review checklist for Artis (Astro/Tailwind). | `zork-ui-review/` |
 
 ## Using a skill
 
@@ -70,16 +71,18 @@ agentic-skills/
     SKILL.md
   artis-automated-tests/
     SKILL.md
-  artis-class-naming/
-    SKILL.md
-  artis-search-commands/
-    SKILL.md
-  artis-ui-review/
-    SKILL.md
   backstory-maker/
     SKILL.md
   code-ux-review/
     SKILL.md
   reddit-growth-research-zero-to-100/
+    SKILL.md
+  zork-class-naming/
+    SKILL.md
+  zork-mobile-responsiveness/
+    SKILL.md
+  zork-search-commands/
+    SKILL.md
+  zork-ui-review/
     SKILL.md
 ```
