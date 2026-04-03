@@ -8,10 +8,13 @@ A collection of Codex skills used by Team Zork agents. Each skill lives in its o
 | --- | --- | --- |
 | ai-press-release-placement | Press release strategy for boosting AI/LLM visibility of digital products. | `ai-press-release-placement/` |
 | app-design-audit | UI/UX audit against visual design principles, accessibility (WCAG), and consistency. | `app-design-audit/` |
+| app-security-audit | Security and production-readiness audit for web apps — rate limiting, auth, secrets, payments, DB, logging, and LLM-specific risks. | `app-security-audit/` |
 | artis-automated-tests | Guidance for writing and validating automated tests in the Artis web app. | `artis-automated-tests/` |
 | backstory-maker | StoryBrand 8-beat framework for founder/company backstories. | `backstory-maker/` |
 | code-ux-review | Combined engineering and UX review checklist and output format. | `code-ux-review/` |
+| private-public-export | Create and maintain a clean public release repo from a private source using a strict allowlist and release-only commits. | `private-public-export/` |
 | reddit-growth-research-zero-to-100 | Research-driven Reddit growth guidance for first 100 users. | `reddit-growth-research-zero-to-100/` |
+| saas-launch-architect | Multi-threaded SaaS launch and GTM strategy — ICP inference from code, launch validation, and go-to-market planning. | `saas-launch-architect/` |
 | zork-class-naming | Artis HTML class naming conventions and semantic markup rules. | `zork-class-naming/` |
 | zork-mobile-responsiveness | Build responsive, mobile-first web applications. | `zork-mobile-responsiveness/` |
 | zork-search-commands | Fast search and file-finding patterns for the Artis repo. | `zork-search-commands/` |
@@ -69,13 +72,19 @@ agentic-skills/
     SKILL.md
   app-design-audit/
     SKILL.md
+  app-security-audit/
+    SKILL.md
   artis-automated-tests/
     SKILL.md
   backstory-maker/
     SKILL.md
   code-ux-review/
     SKILL.md
+  private-public-export/
+    SKILL.md
   reddit-growth-research-zero-to-100/
+    SKILL.md
+  saas-launch-architect/
     SKILL.md
   zork-class-naming/
     SKILL.md
