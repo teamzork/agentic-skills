@@ -15,6 +15,7 @@ A collection of Codex skills used by Team Zork agents. Each skill lives in its o
 | private-public-export | Create and maintain a clean public release repo from a private source using a strict allowlist and release-only commits. | `private-public-export/` |
 | reddit-growth-research-zero-to-100 | Research-driven Reddit growth guidance for first 100 users. | `reddit-growth-research-zero-to-100/` |
 | saas-launch-architect | Multi-threaded SaaS launch and GTM strategy — ICP inference from code, launch validation, and go-to-market planning. | `saas-launch-architect/` |
+| ui-consistency | Scan UI code for repeated markup patterns and surface component-extraction opportunities. | `ui-consistency/` |
 | zork-class-naming | Artis HTML class naming conventions and semantic markup rules. | `zork-class-naming/` |
 | zork-mobile-responsiveness | Build responsive, mobile-first web applications. | `zork-mobile-responsiveness/` |
 | zork-search-commands | Fast search and file-finding patterns for the Artis repo. | `zork-search-commands/` |
@@ -85,6 +86,8 @@ agentic-skills/
   reddit-growth-research-zero-to-100/
     SKILL.md
   saas-launch-architect/
+    SKILL.md
+  ui-consistency/
     SKILL.md
   zork-class-naming/
     SKILL.md
