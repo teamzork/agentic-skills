@@ -1,5 +1,7 @@
 # agentic-skills
 
+![Team Zork Agentic Skills — a library of reusable skills your agents load on demand, each defined by a single SKILL.md. Shown as a terminal loading the app-security-audit skill and listing the available skills.](assets/hero.png)
+
 A collection of Codex skills used by Team Zork agents. Each skill lives in its own folder and is defined by a `SKILL.md` file with clear instructions, references, and optional helper scripts.
 
 ## Skills in this repo
