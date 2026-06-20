@@ -13,6 +13,7 @@ A collection of Codex skills used by Team Zork agents. Each skill lives in its o
 | backstory-maker | StoryBrand 8-beat framework for founder/company backstories. | `backstory-maker/` |
 | code-ux-review | Combined engineering and UX review checklist and output format. | `code-ux-review/` |
 | private-public-export | Create and maintain a clean public release repo from a private source using a strict allowlist and release-only commits. | `private-public-export/` |
+| product-image-maker | Create on-brand marketing/product images (README heroes, OG/social cards, landing heroes) from the app's own design system — 5 distinct concept options, rendered pixel-exact. | `product-image-maker/` |
 | reddit-growth-research-zero-to-100 | Research-driven Reddit growth guidance for first 100 users. | `reddit-growth-research-zero-to-100/` |
 | saas-launch-architect | Multi-threaded SaaS launch and GTM strategy — ICP inference from code, launch validation, and go-to-market planning. | `saas-launch-architect/` |
 | ui-consistency | Scan UI code for repeated markup patterns and surface component-extraction opportunities. | `ui-consistency/` |
@@ -82,6 +83,8 @@ agentic-skills/
   code-ux-review/
     SKILL.md
   private-public-export/
+    SKILL.md
+  product-image-maker/
     SKILL.md
   reddit-growth-research-zero-to-100/
     SKILL.md
